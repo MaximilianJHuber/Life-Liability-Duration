@@ -12,9 +12,9 @@ The [individual company data](/data/liability_duration.csv) is indexed by the `y
 
 The `reserve values` are taken from the "EXHIBIT 5 - AGGREGATE RESERVE FOR LIFE CONTRACTS" of the annual statements of U.S. life insurance companies. Each row reflects the present value of a class of liabilities that was issued in the past. Discounting uses a `reserve rate` and the future `reserve benefits` that will be paid out are calculated using a conservative mortality table, e.g. `1983 Table A` or `1993 GAR`:
 
-<center>
-![Reserve](</misc/value.gif>)
-</center>
+<p align="center">
+  <img width="460" height="300" src="/misc/value.gif">
+</p>
 
 Observing the evolution of the `reserve values` from one annual statement to the next implies the `reserve benefits`. For the purposes of calculating the actuarial value and duration of a liability, the `reserve benefits` are a good approximation of the true benefits, at least for the most popular annuity and life insurance policies. 
 

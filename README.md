@@ -1,6 +1,6 @@
 # The Duration of Life Insurer's Liabilities
 
-![public companies durations](</misc/Stock Market Equity Dura.png>)
+![public companies durations](</misc/Stock Market Equity Dura2.png>)
 
 This repository hosts the estimated duration of the liabilities of U.S. life insurance companies. The data is available from **2001** to **2021**, for a cross-section of about **900 individual companies** and **aggregated**.
 

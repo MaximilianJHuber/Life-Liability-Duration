@@ -1,6 +1,6 @@
 # The Duration of Life Insurer's Liabilities
 
-![public companies durations](</misc/Stock Market Equity Dura2.png>)
+![duration](</misc/Duration Liabilities wide.png>)
 
 This repository hosts the estimated duration of the liabilities of U.S. life insurance companies. The data is available from **2001** to **2021**, for a cross-section of about **900 individual companies** and **aggregated**.
 
@@ -19,5 +19,4 @@ The `reserve values` are taken from the "EXHIBIT 5 - AGGREGATE RESERVE FOR LIFE 
 Observing the evolution of the `reserve values` from one annual statement to the next makes the `reserve cash flows` observable. For the purposes of calculating the actuarial value and duration of a liability, the `reserve cash flows` are a good approximation of the true benefits, at least for the most popular annuity and life insurance policies. 
 
 An empirical model of `reserve cash flows` is estimated and the resulting predictions are used to calculate the actuarial value and duration of each reserve position. These are aggregated yearly to the individual company level. There is substantial cross-sectional heterogeneity in the duration of liabilities and the industry-wide average shows an increasing time trend:
-
-![Liabilities](</misc/Duration Liabilities.png>)
+\
